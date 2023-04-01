@@ -53,4 +53,6 @@ function App() {
     )
 }
 
-export default App; 
+export default App;
+
+https://leetcode.com/problems/repeated-substring-pattern/
